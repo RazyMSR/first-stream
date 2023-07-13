@@ -3,7 +3,7 @@ import streamlit
 streamlit.title ('my parents new healthy diner')
 
 
-Breakfast Menu
+'Breakfast Menu'
 
-omega3 & blueberry omlet
-kale, spinach
+'omega3 & blueberry omlet'
+'kale, spinach'
